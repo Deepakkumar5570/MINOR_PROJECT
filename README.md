@@ -10,7 +10,6 @@ https://idyllic-torrone-ca062d.netlify.app/
 - 🌍 Search weather by city name  
 - 📍 Get current location weather (using Geolocation API)  
 - 🌡️ Shows temperature, humidity, and conditions  
-- 🌓 Light/Dark mode support  
 - 📱 Fully responsive design  
 
 ---
@@ -76,4 +75,5 @@ Your Name
 
 GitHub
  | LinkedIn
+
 
